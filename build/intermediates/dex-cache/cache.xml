@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b8d84606807031cc84f2125564033931a56a6180.jar"
+        jar="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/pre-dexed/debug/classes-4ef37ec83a8d97e0a7683bf0766b4eb5e5134c65.jar"
+        jar="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-10ffb4559f07529a447d6a3514510f63d53f286d.jar"
+        jar="/Users/dishantghai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.2/91c20388c9a45f62b5ed8fe0502bb76ff6251fc7/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7"/>
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-8fd2fb17deaaa1c14466b394bf2e2a45d039777a.jar"
+        jar="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/pre-dexed/debug/classes-93cf21f10d4a94ea7248443eb727715bb215a9a4.jar"
+        jar="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk_1/app/build/intermediates/exploded-aar/com.facebook.android/facebook/3.21.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eb6fea9df99fcc490b3abe4392a627e5ddaa6571"/>
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-3d9408f0ec17d7e4d36e0388183f9978b9dff017.jar"
+        jar="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/TOOLS/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk2/app/build/intermediates/pre-dexed/debug/classes-7c0d48af2300a1d54e3255387faf10f5d525e3d4.jar"
+        jar="/Users/dishantghai/Documents/BATCAVE/DEV/ANDROID/GITHUB/Flokk2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+
+</pre-dex-items>
