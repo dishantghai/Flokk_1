@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dishantghai.flokk.NewFlokkActivity">
+
+    <item android:id="@+id/action_accept"
+        android:icon="@drawable/ic_action_accept"
+        android:showAsAction="ifRoom"
+        android:title="Done"/>
+
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
